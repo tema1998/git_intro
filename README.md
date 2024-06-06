@@ -1,2 +1,2 @@
 This is description of this pro
-ject.123
+Add info about log_help.
